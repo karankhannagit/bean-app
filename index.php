@@ -1,4 +1,4 @@
 <?php 
-echo "hello world" ;
-echo "Mr bean why you dont work";
+echo "hello world , " ;
+echo "I am on beanstalk ";
 ?>
